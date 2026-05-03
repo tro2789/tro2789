@@ -1,6 +1,6 @@
 # Hey, I'm Trevor O'Hare
 
-Voiceover talent and post-production professional based in Orlando, FL. I've produced voiceover content for brands like Amazon, Google, Walmart, Red Bull, IBM, and the United Nations. I also do a lot of video editing work, particularly in the podcasting niche. I also build software tools for the voiceover industry on the side.
+I'm a voiceover talent and post-production professional based in Orlando, FL. I've produced voiceover content for brands like Amazon, Google, Walmart, Red Bull, IBM, and the United Nations. I also do a lot of video editing work, particularly in the podcasting niche. I also build software tools for the voiceover industry on the side.
 
 ### What I'm Building
 
