@@ -5,10 +5,7 @@ I'm a voiceover talent and post-production professional based in Orlando, FL. I'
 ### What I'm Building
 
 - **[RealVOTalent](https://realvotalent.com)** — A curated voiceover marketplace connecting talent with clients
-- **[VOTrainer](https://votrainer.com)** — Coaching and resources for voiceover artists
 - **[PreRoll.io](https://preroll.io)** — Podcast production management for agencies. API-first, self-hostable.
-- **[VO Tools](https://github.com/tro2789/vo-tools)** — Open-source utilities for voice actors and audio engineers
-- **[trevorohare.com](https://trevorohare.com)** — My production company site
 
 ### Tech Stack
 
