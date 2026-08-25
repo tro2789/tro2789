@@ -5,7 +5,7 @@ I'm a voiceover talent and post-production professional based in Orlando, FL. I'
 ### What I'm Building
 
 - **[RealVOTalent](https://realvotalent.com)** — A curated voiceover marketplace connecting talent with clients
-- **[SequenceBatchExporter]([https://preroll.io](https://github.com/tro2789/SequenceBatchExporter)** — CEP panel for Premiere Pro that allows you to batch multiple exports of the same sequence using your preferred AME presets. Useful when delivering audio and video versions of the same sequence to podcast clients.
+- **[SequenceBatchExporter](https://github.com/tro2789/SequenceBatchExporter)** — CEP panel for Premiere Pro that allows you to batch multiple exports of the same sequence using your preferred AME presets. Useful when delivering audio and video versions of the same sequence to podcast clients.
 
 ### Tech Stack
 
