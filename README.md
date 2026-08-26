@@ -6,6 +6,7 @@ I'm a voiceover talent and post-production professional based in Orlando, FL. I'
 
 - **[RealVOTalent](https://realvotalent.com)** — A curated voiceover marketplace connecting talent with clients
 - **[SequenceBatchExporter](https://github.com/tro2789/SequenceBatchExporter)** — CEP panel for Premiere Pro that allows you to batch multiple exports of the same sequence using your preferred AME presets. Useful when delivering audio and video versions of the same sequence to podcast clients.
+- **[SpecCheck](https://github.com/tro2789/SpecCheck)** — CEP panel for Premiere Pro that measures a mix against a delivery spec (ACX/Audible, Apple Podcasts, Spotify, EBU R128, YouTube, or custom) and shows a pass/fail scoreboard. Also writes a one-page QC report you can include with client deliveries.
 
 ### Tech Stack
 
