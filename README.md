@@ -12,15 +12,9 @@ I'm a voiceover talent and post-production professional based in Orlando, FL. I'
 - **[ABAudioToggle](https://github.com/tro2789/ABAudioToggle)**: one-button A/B mute flip for comparing two audio treatments in the timeline.
 - **[premiere-uxp-dev-notes](https://github.com/tro2789/premiere-uxp-dev-notes)**: verified notes on Premiere UXP and CEP plugin development. Sync and async rules, silent manifest failures, the QE DOM, marker quirks, and zxp signing. Every entry is live-tested or cites an Adobe source.
 
-**Podcast production**
-
-- **[PreRoll.io](https://github.com/tro2789/preroll.io)**: podcast production management for agencies. API-first and self-hostable.
-- **[n8n-nodes-preroll](https://github.com/tro2789/n8n-nodes-preroll)**: n8n community node for automating PreRoll workflows.
-
 **Voiceover industry**
 
 - **[RealVOTalent](https://realvotalent.com)**: a curated voiceover marketplace with 100% human talent. No AI voices.
-- **[VOTrainer](https://votrainer.com)**: voiceover coaching, courses, and resources.
 - **[vo-tools](https://github.com/tro2789/vo-tools)**: small browser tools for voice actors and audio engineers.
 
 **Other**
