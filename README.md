@@ -4,10 +4,28 @@ I'm a voiceover talent and post-production professional based in Orlando, FL. I'
 
 ### What I'm Building
 
-- **[RealVOTalent](https://realvotalent.com)** — A curated voiceover marketplace connecting talent with clients
-- **[SequenceBatchExporter](https://github.com/tro2789/SequenceBatchExporter)** — CEP panel for Premiere Pro that allows you to batch multiple exports of the same sequence using your preferred AME presets. Useful when delivering audio and video versions of the same sequence to podcast clients.
-- **[SpecCheck](https://github.com/tro2789/SpecCheck)** — CEP panel for Premiere Pro that measures a mix against a delivery spec (ACX/Audible, Apple Podcasts, Spotify, EBU R128, YouTube, or custom) and shows a pass/fail scoreboard. Also writes a one-page QC report you can include with client deliveries.
+**Premiere Pro tools**
 
+- **[Scout](https://github.com/tro2789/scout-premiere-mcp)**: an AI-agent editing extension for Premiere Pro. Claude connects over MCP and can search the transcript, place markers, make cuts, and run exports from natural language. Ships as a UXP panel plus an MCP server, with a Claude Desktop bundle in the releases.
+- **[SequenceBatchExporter](https://github.com/tro2789/SequenceBatchExporter)**: CEP panel that queues multiple sequences against multiple Media Encoder presets in one pass. Useful when a podcast client needs audio and video versions of every episode.
+- **[SpecCheck](https://github.com/tro2789/SpecCheck)**: CEP panel that measures a mix against a delivery spec (Audible/ACX, Apple Podcasts, Spotify, EBU R128, YouTube, or custom) and shows a pass/fail scoreboard. Writes a one-page QC report for client deliveries.
+- **[ABAudioToggle](https://github.com/tro2789/ABAudioToggle)**: one-button A/B mute flip for comparing two audio treatments in the timeline.
+- **[premiere-uxp-dev-notes](https://github.com/tro2789/premiere-uxp-dev-notes)**: verified notes on Premiere UXP and CEP plugin development. Sync and async rules, silent manifest failures, the QE DOM, marker quirks, and zxp signing. Every entry is live-tested or cites an Adobe source.
+
+**Podcast production**
+
+- **[PreRoll.io](https://github.com/tro2789/preroll.io)**: podcast production management for agencies. API-first and self-hostable.
+- **[n8n-nodes-preroll](https://github.com/tro2789/n8n-nodes-preroll)**: n8n community node for automating PreRoll workflows.
+
+**Voiceover industry**
+
+- **[RealVOTalent](https://realvotalent.com)**: a curated voiceover marketplace with 100% human talent. No AI voices.
+- **[VOTrainer](https://votrainer.com)**: voiceover coaching, courses, and resources.
+- **[vo-tools](https://github.com/tro2789/vo-tools)**: small browser tools for voice actors and audio engineers.
+
+**Other**
+
+- **[BrightBean Studio](https://github.com/tro2789/brightbean-studio)**: open-source, self-hostable social media scheduling across 10+ platforms. A free alternative to Buffer and SocialPilot.
 ### Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
