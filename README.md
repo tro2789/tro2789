@@ -17,9 +17,6 @@ I'm a voiceover talent and post-production professional based in Orlando, FL. I'
 - **[RealVOTalent](https://realvotalent.com)**: a curated voiceover marketplace with 100% human talent. No AI voices.
 - **[vo-tools](https://github.com/tro2789/vo-tools)**: small browser tools for voice actors and audio engineers.
 
-**Other**
-
-- **[BrightBean Studio](https://github.com/tro2789/brightbean-studio)**: open-source, self-hostable social media scheduling across 10+ platforms. A free alternative to Buffer and SocialPilot.
 ### Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
